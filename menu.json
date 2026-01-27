@@ -165,7 +165,7 @@
         "price": 4.5,
         "image": "sopa-de-pescado-tajin.jpg",
         "is_menu_compatible": false,
-        "is_available": false,
+        "is_available": true,
         "variants": []
       }
     ]
@@ -651,7 +651,7 @@
         "id": 70,
         "name": "Salsa Samurai",
         "description": null,
-        "price": 55.0,
+        "price": 0.5,
         "image": null,
         "is_menu_compatible": false,
         "is_available": true,
